@@ -1,0 +1,57 @@
+{
+  "name": "Hoot Testnet",
+  "logoURI": "https://raw.githubusercontent.com/hootoshi/test-interface/main/logo.png",
+  "keywords": [
+    "hoot",
+    "testnet"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 5,
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "name": "Hoot",
+      "symbol": "A Birds Nest",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hootoshi/test-interface/main/logo.png"
+    },
+
+    {
+        "chainId": 5,
+        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8
+      },
+
+    {
+        "chainId": 5,
+        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+      },
+    {
+      "chainId": 5,
+      "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    }, 
+    {
+        "chainId": 5,
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+     }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
