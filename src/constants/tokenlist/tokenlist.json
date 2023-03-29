@@ -539,7 +539,7 @@
       "name": "Basic Attention Token",
       "symbol": "BAT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+      "logoURI": "https://testswap.hoot.finance/static/media/logo.4ebace96.png"
     },
     {
       "chainId": 5,
