@@ -748,12 +748,12 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
     },
     {
-      "chainId": 5,
-      "address": "0xa3A53e0D7046bF6Ad1Eb700762707052969Deab0",
-      "name": "HOOT",
-      "symbol": "A Birds Nest",
-      "decimals": 18,
-      "logoURI": "https://testswap.hoot.finance/static/media/logo.4ebace96.png"
+      "chainId": 42,
+      "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     }
   ],
   "version": {
