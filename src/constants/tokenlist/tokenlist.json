@@ -430,6 +430,16 @@
       "logoURI": "https://pbs.twimg.com/profile_images/1580732227427745794/RsQNAEaS_400x400.jpg"
 
       
+    },
+    {
+      "name": "HOOT",
+      "address": "0xa3A53e0D7046bF6Ad1Eb700762707052969Deab0",
+      "symbol": "A Birds Nest",
+      "decimals": 18,
+      "chainId": 7668378,
+      "logoURI": "https://raw.githubusercontent.com/hootoshi/test-interface/main/logo.png"
+
+      
     }
   ]
 }
