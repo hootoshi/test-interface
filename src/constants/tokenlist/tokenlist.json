@@ -1,14 +1,13 @@
 {
-  "name": "Hootswap List",
+  "name": "Compound",
   "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
-    "hootswap",
+    "hoot",
     "defi"
   ],
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
- {
       "chainId": 5,
       "address": "0xa3A53e0D7046bF6Ad1Eb700762707052969Deab0",
       "name": "HOOT",
