@@ -10,7 +10,7 @@
             "address": "0x12A7530D6f9e1a9B0351D78aB711f7C2c033873A",
             "chainId": 1,
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29497/small/hoot.png",
+            "logoURI": "https://assets.coingecko.com/coins/images/29497/large/hoot.png",
             "name": "A Birds Nest",
             "symbol": "HOOT"
         },
@@ -18,7 +18,7 @@
             "address": "0xa3A53e0D7046bF6Ad1Eb700762707052969Deab0",
             "chainId": 7668378,
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/29497/small/hoot.png",
+            "logoURI": "https://assets.coingecko.com/coins/images/29497/large/hoot.png",
             "name": "A Birds Nest",
             "symbol": "HOOT"
         },
