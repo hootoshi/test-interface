@@ -3,7 +3,7 @@
     "timestamp": "2023-04-04T06:01:07.108Z",
     "version": { "major": 1, "minor": 0, "patch": 0 },
     "tags": {},
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+    "logoURI": "https://raw.githubusercontent.com/hootoshi/test-interface/main/logo.png",
     "keywords": ["hootswap", "hoot", "default"],
     "tokens": [
         {
