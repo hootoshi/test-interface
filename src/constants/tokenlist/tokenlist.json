@@ -6,13 +6,29 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
     "keywords": ["hootswap", "hoot", "default"],
     "tokens": [
-       {
+        {
             "address": "0x12A7530D6f9e1a9B0351D78aB711f7C2c033873A",
             "chainId": 1,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/hootoshi/test-interface/main/logo.png",
             "name": "A Birds Nest",
             "symbol": "HOOT"
+        },
+        {
+            "address": "0xa3A53e0D7046bF6Ad1Eb700762707052969Deab0",
+            "chainId": 7668378,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/hootoshi/test-interface/main/logo.png",
+            "name": "A Birds Nest",
+            "symbol": "HOOT"
+        },
+        {
+            "address": "0xa71d0588EAf47f12B13cF8eC750430d21DF04974",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18919.png",
+            "name": "Shiba Predator",
+            "symbol": "QOM"
         },
         {
             "address": "0x111111111117dC0aa78b770fA6A738034120C302",
